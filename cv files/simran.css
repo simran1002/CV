@@ -1,6 +1,6 @@
 body {
 
-    background-color: rgb(255, 255, 253);
+    background-color: white;
 
     display: flex;
 
@@ -8,23 +8,6 @@ body {
 
     align-items: center;
 }
-.full {
-
-    width: 50%;
-
-    max-width: 1000px;
-
-    min-height: 100px;
-
-    background-color: rgb(245, 239, 231);
-
-    margin: 0px;
-
-    display: grid;
-
-    grid-template-columns: 2fr 4fr;
-}
-
 .left {
 
     position: initial;
@@ -32,7 +15,7 @@ body {
     background-color:royalblue;
 
     padding: 20px;
- 
+
 }
 
 .right {
